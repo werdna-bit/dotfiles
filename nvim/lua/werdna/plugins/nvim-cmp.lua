@@ -318,7 +318,8 @@ return {
 					elseif in_whitespace() then
 						smart_tab()
 					else
-						cmp.complete()
+						_fallback()
+						--cmp.complete()
 					end
 				end, { "i", "s" }),
 			}),

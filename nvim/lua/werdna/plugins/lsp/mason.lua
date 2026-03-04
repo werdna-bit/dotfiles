@@ -41,7 +41,6 @@ return {
 				"cssls",
 				"tailwindcss",
 				"gopls",
-				"angularls",
 				"emmet_ls",
 				"emmet_language_server",
 				-- "eslint",
@@ -54,10 +53,6 @@ return {
 				"biome",
 				"prettier", -- prettier formatter
 				"stylua", -- lua formatter
-				"isort", -- python formatter
-				"pylint",
-				"clangd",
-				"denols",
 				-- { 'eslint_d', version = '13.1.2' },
 			},
 

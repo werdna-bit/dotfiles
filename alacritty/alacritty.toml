@@ -1,0 +1,11 @@
+[window]
+opacity = 0.8  # Range: 0.0 (fully transparent) to 1.0 (fully opaque)
+blur = true     # Optional: adds blur effect on some systems
+
+
+[font]
+normal = { family = "Space Mono Nerd Font", style = "Regular" }
+
+[colors.primary]
+background = "#1a1b26"
+foreground = "#c0caf5"
